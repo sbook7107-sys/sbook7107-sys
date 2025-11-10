@@ -1,7 +1,7 @@
 <!-- 🌟 Modern GitHub Profile by Hoang Phuc 🌟 -->
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/242996392/512366889-1811ff16-9136-4108-87c2-67f672b4e507.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI4MDU4OTEsIm5iZiI6MTc2MjgwNTU5MSwicGF0aCI6Ii8yNDI5OTYzOTIvNTEyMzY2ODg5LTE4MTFmZjE2LTkxMzYtNDEwOC04N2MyLTY3ZjY3MmI0ZTUwNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExMFQyMDEzMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZmJiZmI3OTQxYWU1Y2ZjMGY0ZDdkYmI0Y2NkMjEzMDcxMWU4M2I0N2RkNjY1NDJjZjQ1NGQ4NzhjMTNkM2E2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T105xotZzM-hgMmKSxMM8TC1rI4Sds8218uzALm4VYA" 
+  <img src="https://raw.githubusercontent.com/sbook7107-sys/sbook7107-sys/refs/heads/main/header.gif" 
        alt="Animated Header" width="512" height="384" style="border-radius: 16px; margin-bottom: 20px;" />
 </div>
 
