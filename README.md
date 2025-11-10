@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sbook7107-sys/sbook7107-sys/refs/heads/main/header.gif" 
-       alt="Animated Header" width="512" height="384" style="border-radius: 16px; margin-bottom: 20px;" />
+       alt="Animated Header" width="600" height="450" style="border-radius: 16px; margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Hoang Phuc</span></h1>
