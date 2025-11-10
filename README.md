@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 > “Turning ideas into interactive digital experiences.”
 
 - 🎓 Currently pursuing **Information Technology**.  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧩 Software Development & Architecture
+## 🧩 Software Development & Architecture
 - ⚙️ Proficient in **SDLC**, from planning → deployment.  
 - 🧠 Apply principles of **MVC**, **Layered**, and **Clean Architecture**.  
 - 🚀 Experienced with **Agile / Scrum** and **Waterfall** methodologies.  
@@ -30,7 +30,7 @@
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 <div align="center">
 
 #### 💻 Languages & Frameworks  
